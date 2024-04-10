@@ -167,7 +167,7 @@ def main(): # Call the methods of class here
     #a.read_config
     a.google()
     a.yahoo()
-    a.bing()
+    # a.bing()
     a.dataframe()
     logging.info("Completion of web scraping") # Logs added to logs.log file
     
